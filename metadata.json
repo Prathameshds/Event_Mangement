@@ -1,0 +1,8 @@
+{
+  "name": "EventHive",
+  "description": "A comprehensive event management and registration system with role-based access for participants, organizers, and admins.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
